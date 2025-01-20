@@ -1,5 +1,4 @@
 import express from "express";
-import colors from "colors";
 import morgan from "morgan";
 import { db } from "./config/db";
 import rutas from "./rutas/rutas";
